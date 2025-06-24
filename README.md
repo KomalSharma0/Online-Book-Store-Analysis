@@ -1,18 +1,19 @@
 # 📚 Online Bookstore SQL Analysis
 
-Welcome to my SQL project where I analyzed an online bookstore dataset using PostgreSQL. This project is inspired by a semi-guided approach — I watched Satish Dhawale’s video for the initial direction but completed the queries, analysis, and presentation independently.
+Welcome to my SQL project where I analyzed an online bookstore dataset using PostgreSQL. This is a **semi-guided project** — I discovered the dataset on Kaggle and independently explored it by writing both basic and advanced SQL queries, generating insights, and designing a professional presentation.
+
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
-The goal of this project is to uncover insights related to customer behavior, sales performance, and inventory management using SQL queries. The [dataset](#) was sourced from Kaggle and includes three relational tables: `Books`, `Customers`, and `Orders`.
+The goal of this project is to uncover insights related to customer behavior, sales performance, and inventory management using SQL queries. The [dataset](https://github.com/KomalSharma0/Online-Book-Store-Analysis/tree/main/Dataset) was sourced from Kaggle and includes three relational tables: `Books`, `Customers`, and `Orders`.
 
-I conducted the analysis using **PostgreSQL in pgAdmin** and built a clean, professional presentation in **Canva** for visual storytelling. This project is part of my portfolio and also added to my resume to demonstrate practical SQL skills in a real-world context.
+I conducted the analysis using **PostgreSQL in pgAdmin** and built a clean, professional presentation in **Canva** for visual storytelling.
 
 ---
 
-## [Dataset](#) Details
+## 🧾 Dataset Details
 
 - **Books**: Book_ID, Title, Author, Genre, Published_Year, Price, Stock  
 - **Customers**: Customer_ID, Name, Email, Phone, City, Country  
@@ -20,7 +21,7 @@ I conducted the analysis using **PostgreSQL in pgAdmin** and built a clean, prof
 
 ---
 
-## What I Did
+## 🧠 What I Did
 
 ✔️ Performed structured analysis using 20+ SQL queries  
 ✔️ Explored both basic and advanced questions  
@@ -35,7 +36,7 @@ I conducted the analysis using **PostgreSQL in pgAdmin** and built a clean, prof
 
 ---
 
-## Sample Business Questions Answered
+## 📊 Sample Business Questions Answered
 
 Some of the key queries I answered in this project include:
 
@@ -50,7 +51,7 @@ Some of the key queries I answered in this project include:
 
 ---
 
-## Key Insights
+## 🎯 Key Insights
 
 - 139 customers placed multiple orders  
 - Over 443 customers spent more than $30  
@@ -61,7 +62,7 @@ Some of the key queries I answered in this project include:
 
 ---
 
-## Tools & Skills Applied
+## 📈 Tools & Skills Applied
 
 - **PostgreSQL / pgAdmin**  
 - SQL (JOINS, GROUP BY, HAVING, Aggregates)  
@@ -70,20 +71,28 @@ Some of the key queries I answered in this project include:
 
 ---
 
-## Video Presentation
+## 📽️ Project Demo
 
-🔗 [Watch My Project Presentation on LinkedIn](#)
-
----
-
-## Connect With Me
-
-- 📂 [Visit My Portfolio](https://komalsharma0.github.io/Portfolio/)
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/komalsharma-insights/) 
+- 🖼️ [Presentation Video](#)
 
 ---
 
-## Created By
+## 📁 Files Included
+
+- 📊 [SQL Queries](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
+- 🖼️ [Project Presentation](https://github.com/KomalSharma0/Online-Book-Store-Analysis/blob/main/Presentation.pdf)
+- 📄 [Executive Summary](https://github.com/KomalSharma0/Online-Book-Store-Analysis/blob/main/Executive_Summary.pdf)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/komalsharma-insights)
+- 🌐 [Portfolio]( https://komalsharma0.github.io/Portfolio/)
+
+---
+
+## ✍️ Created By
 
 **Komal Sharma**  
 Aspiring Data Analyst | Passionate about turning raw data into clear stories  
