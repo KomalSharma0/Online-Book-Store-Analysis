@@ -73,7 +73,7 @@ Some of the key queries I answered in this project include:
 
 ## 📽️ Project Demo
 
-- 🖼️ [Presentation Video](#)
+- 🖼️ [Presentation Video](https://www.linkedin.com/posts/komalsharma-insights_sqlproject-dataanalytics-sql-activity-7343158908376489984-cJ2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC6RzkBFwFC9OsTNQE67xvf1nxZbpf_05Y)
 
 ---
 
