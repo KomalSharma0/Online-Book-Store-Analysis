@@ -79,7 +79,7 @@ Some of the key queries I answered in this project include:
 
 ## 📁 Files Included
 
-- 📊 [SQL Queries](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
+- 📊 [SQL Queries](https://github.com/KomalSharma0/Online-Book-Store-Analysis/blob/main/BookStore%20Analysis%20using%20SQL.sql)
 - 🖼️ [Project Presentation](https://github.com/KomalSharma0/Online-Book-Store-Analysis/blob/main/Presentation.pdf)
 - 📄 [Executive Summary](https://github.com/KomalSharma0/Online-Book-Store-Analysis/blob/main/Executive_Summary.pdf)
 
